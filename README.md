@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **APIs**
 
-- 📝 I regulary write articles on [jadia.dev](jadia.dev)
+- 📝 I regulary write articles on [jadia.dev](https://jadia.dev)
 
 - 💬 Ask me about **Kubernetes, Python and Containers**
 
