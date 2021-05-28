@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nitish Jadia</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">I love Backend and DevOps </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadia" alt="jadia" /> </p>
 
-- 🌱 I’m currently learning **APIs**
+- 🔭 I’m currently working on **Flask, AWS services and React.js**
 
-- 📝 I regulary write articles on [jadia.dev](https://jadia.dev)
+- 📝 I sometimes write articles on [jadia.dev](https://jadia.dev)
 
-- 💬 Ask me about **Kubernetes, Python and Containers**
+<!-- - 💬 Ask me about **System Design and Python ** -->
 
 - 📫 How to reach me **[@nitishjadia](https://twitter.com/nitishjadia)**
 
@@ -37,6 +37,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
