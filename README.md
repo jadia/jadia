@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitish Jadia</h1>
-<h3 align="center">I love Backend and DevOps </h3>
+<!-- <h3 align="center">I love Backend and DevOps </h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadia" alt="jadia" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadia" alt="jadia" /> </p> -->
 
 - 🔭 I’m currently working on **Flask, AWS services and React.js**
 
@@ -9,7 +9,7 @@
 
 <!-- - 💬 Ask me about **System Design and Python ** -->
 
-- 📫 How to reach me **[@nitishjadia](https://twitter.com/nitishjadia)**
+- 📫 Reach me at **[@nitishjadia](https://twitter.com/nitishjadia)**
 
 <!-- A lot of icons broke, will fix it later
 
